@@ -1,2 +1,2 @@
 # webperf-app-webpage
-Website promotong Webperf Core
+Website promoting Webperf Core
